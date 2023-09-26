@@ -1,0 +1,8 @@
+Bibliotecas utilizadas
+
+Pandas
+ pip install pandas numpy openpyxl
+
+ Pyautogui
+
+ pip install Pyautogui
